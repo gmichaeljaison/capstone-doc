@@ -1,2 +1,4 @@
+_build/
+
 # os specific files
 .DS_Store
