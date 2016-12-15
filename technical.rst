@@ -62,4 +62,3 @@ pano5   53.55%
 =====   =========
 
 The advantage with DSP is that it worked well for deformable objects compared with normal HOG template matching. The con is that it takes a very long time to do matching. We used the matlab code available from the authors.
-

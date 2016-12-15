@@ -85,7 +85,3 @@ To finetune the overall performance of detection, the classification component i
 Conclusion
 ----------
 The problem of Instance Recognition is still in its early stage. In general, Advancements with Deep Learning works well only with large number of training images. In this project, we have explored three different approaches to tackle the problem - Feature Matching, Template Matching, and Deep Learning. Deep Learning approaches seems to perform better even with less training iamges and less prior information.
-
-
-
-
