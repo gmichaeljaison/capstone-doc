@@ -7,6 +7,7 @@ Technical Details
 
     template_matching
     deeplearning
+    data_aug
 
 Bossa Nova specific details are available in this document.
 
